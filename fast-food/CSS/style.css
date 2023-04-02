@@ -63,6 +63,7 @@ h6 {
 .logo {
     height: 42px;
     width: 52px;
+    display: block;
 }
 
 .logo__img {
@@ -419,3 +420,53 @@ h6 {
     line-height: 14px;
     color: rgba(225, 225, 225, .7);
 }
+
+.footer {
+    padding: 86px 0px 140px;
+}
+
+.footer__contact {}
+
+.footer__container {
+    display: flex;
+    column-gap: 92px;
+}
+
+footer a {
+    color: rgba(255, 225, 225, 0.8);
+}
+
+.logo {}
+
+.logo__img {}
+
+.block-link {}
+
+.block-link__link {}
+
+.footer-menu {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 20px;
+
+}
+
+.footer-menu__block {}
+
+.footer-menu__block-titile {}
+
+.footer-menu__list {}
+
+.footer-menu__item {}
+
+.footter-menu__link {}
+
+.footer-menu__block-title {}
+
+.social {}
+
+.social__item {}
+
+.social__link {}
+
+.social__icon {}
